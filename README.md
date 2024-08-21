@@ -5,13 +5,13 @@ This project was bootstrapped with Create React App, a popular toolchain for bui
 
 <h2>Available Scripts</h2>
 
-npm start: Runs the app in development mode at http://localhost:3000. The app reloads on edits, and lint errors are displayed in the console.
+<b>npm start</b>: Runs the app in development mode at http://localhost:3000. The app reloads on edits, and lint errors are displayed in the console.
 
-npm test: Launches the interactive test runner.
+<b>npm test</b>: Launches the interactive test runner.
 
-npm run build: Builds the app for production, optimizing the build for the best performance.
+<b>npm run build</b>: Builds the app for production, optimizing the build for the best performance.
 
-npm run eject: Provides full control over the build configuration by copying configuration files and dependencies directly into your project. Note that this is irreversible.
+<b>npm run eject</b>: Provides full control over the build configuration by copying configuration files and dependencies directly into your project. Note that this is irreversible.
 
 
 <h2>Learn More</h2>
