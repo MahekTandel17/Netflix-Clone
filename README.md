@@ -15,11 +15,7 @@ This project was bootstrapped with Create React App, a popular toolchain for bui
 
 
 <h2>Learn More</h2>
-For detailed documentation, visit the Create React App documentation and the React documentation.
-
-
-<h2>Deployed Application</h2>
-The application is deployed and accessible here.
+For detailed documentation, visit the Create React App documentation and the React documentation
 
 
 <h2>Tutorial</h2>
